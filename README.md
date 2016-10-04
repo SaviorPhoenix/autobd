@@ -5,6 +5,8 @@
 [![GoDoc](https://godoc.org/github.com/tywkeene/autobd?status.svg)](https://godoc.org/github.com/tywkeene/autobd)
 
 ## Getting autobd
+
+[![Join the chat at https://gitter.im/autobd/Lobby](https://badges.gitter.im/autobd/Lobby.svg)](https://gitter.im/autobd/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Golang is required, so [get that](https://golang.org/doc/install). Most versions should work but it's probably best to
 stick with at least 1.4.2 as that's what I'm developing on.
 
